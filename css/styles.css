@@ -1,0 +1,12 @@
+p.intro {
+  width: auto;
+  font-style: italic;
+}
+
+h2.intro {
+  font-style: oblique;
+  color: blue;
+}
+img.intro {
+  float: right;
+}
